@@ -257,6 +257,7 @@ in your favourite language.*
 * [Tiny Code Christmas](https://tcc.lovebyte.party/)
 * [Hanukkah of Data](https://hanukkah.bluebird.sh/)
 * [Breakpoint: coding advent calendars and yearly events](https://breakpoint.games/seasonal)
+* [Advent of Workflow](https://www.diagrid.io/advent-of-workflow)
 
 ## 2025
 
